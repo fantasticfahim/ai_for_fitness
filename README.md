@@ -63,22 +63,23 @@ This will install all the necessary libraries such as `mediapipe`, `numpy`, and 
 
 ### 5. **Run the Project**
 
-You can now run the Python files or Jupyter notebooks:
+* **Running the .ipynb Jupyter Notebook
 
-* **To run a Python script**:
+Open the Media Pipe Pose Demo Tutorial.ipynb file in VS Code.
 
-  ```bash
-  python path_to_your_script.py
-  ```
+Click on the Run button for each cell, or run the entire notebook by using the Run All option in the toolbar at the top.
 
-* **To run a Jupyter notebook**:
+* **Running the .py Python Script
 
-  1. Start Jupyter:
+Open any .py file (e.g., pushupWork.py or LegLungeWork.py) in VS Code.
 
-     ```bash
-     jupyter notebook
-     ```
-  2. Open `Media Pipe Pose Demo Tutorial.ipynb` in the browser and run the cells.
+Make sure the virtual environment is activated by opening command pallete and selecting the python 3.9 version.
+
+You can run the .py script by opening the Terminal in VS Code (press Ctrl+` ) and running the following command:
+
+```bash
+python pushupWork.py
+```
 
 ### 6. **Assets**
 
@@ -98,4 +99,4 @@ The `Assets` folder contains video files and Python scripts for different exerci
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-This template includes everything from cloning the repository to setting up the environment, running the project, and managing the assets. You can copy-paste this into your `README.md` file on GitHub!
+This template includes everything from cloning the repository to setting up the environment, running the project, and managing the assets.
