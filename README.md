@@ -63,13 +63,13 @@ This will install all the necessary libraries such as `mediapipe`, `numpy`, and 
 
 ### 5. **Run the Project**
 
-* **Running the .ipynb Jupyter Notebook
+* **Running the .ipynb Jupyter Notebook**
 
 Open the Media Pipe Pose Demo Tutorial.ipynb file in VS Code.
 
 Click on the Run button for each cell, or run the entire notebook by using the Run All option in the toolbar at the top.
 
-* **Running the .py Python Script
+* **Running the .py Python Script**
 
 Open any .py file (e.g., pushupWork.py or LegLungeWork.py) in VS Code.
 
