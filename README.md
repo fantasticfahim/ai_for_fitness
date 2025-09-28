@@ -99,4 +99,3 @@ The `Assets` folder contains video files and Python scripts for different exerci
 
 This project is open-source and available under the [MIT License](LICENSE).
 This template includes everything from cloning the repository to setting up the environment, running the project, and managing the assets. You can copy-paste this into your `README.md` file on GitHub!
-```
